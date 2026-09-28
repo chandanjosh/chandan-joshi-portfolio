@@ -3,7 +3,7 @@
    ========================================================================== */
 
 // ====== EDIT THESE WITH YOUR REAL DETAILS ======
-const WHATSAPP_NUMBER = "911234567890"; // country code + number, no + sign, no spaces
+const WHATSAPP_NUMBER = "918847219830"; // country code + number, no + sign, no spaces
 const WHATSAPP_MESSAGE = "Hi Chandan, I found your site and I'd like to talk about a project.";
 const BOOKING_URL = "https://cal.com/your-username/15min"; // replace with your real Cal.com booking link
 // ================================================
